@@ -114,5 +114,8 @@ import {
       shadowOpacity: 0.6,
       shadowRadius: 4,
     },
+    button:{
+      backgroundcolor:"red"
+    }
   });
   

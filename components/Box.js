@@ -18,4 +18,11 @@ const mainStyle = StyleSheet.create({
     fontWeight: "bold",
     textAlign: "center",
   },
+  container:
+  {
+    flex: 1,
+    backgroundColor: "white",
+    alignItems: "center",
+    justifyContent: "center",
+  }
 });
